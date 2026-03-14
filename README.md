@@ -79,8 +79,6 @@ Streamlit · Git · Azure
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=priyankA-2701&show_icons=true&theme=tokyonight)
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=priyankA-2701&layout=compact&theme=tokyonight)
 
 ---
